@@ -60,7 +60,7 @@ int challenge01()
 
     // int z = x * y + 2;
 
-    return 0;
+    return 23;
 }
 
 
