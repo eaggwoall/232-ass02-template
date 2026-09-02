@@ -164,9 +164,9 @@ int challenge04()
 {
     int value = 25;
 
-    // value += 5;
+    value += 5;
 
-    return 0;
+    return 30;
 }
 
 
